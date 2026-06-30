@@ -9,8 +9,13 @@ A comprehensive Fullstack Web Application designed for the **Information Technol
 ## 🎥 Project Demo
 > **Note:** Watch the video below to see a full walkthrough of the system, including the Admin dashboard, exam generation, and the student's exam experience.
 
-<video src="./ProjectVideo.mp4" controls="controls" muted="muted" autoplay="autoplay" loop="loop" width="100%"></video>
-
+<p align="center">
+  <a href="https://vimeo.com/1205967071">
+    <img src="https://vumbnail.com/1205967071.jpg" alt="Watch Project Demo" width="600px">
+  </a>
+  <br>
+  <b>Click the image to watch the project demo on Vimeo</b>
+</p>
 ---
 
 ## 📸 Screenshots
